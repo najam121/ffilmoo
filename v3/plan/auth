@@ -1,0 +1,22 @@
+{
+   "code" : 0,
+   "data" : {
+      "device_no" : "{5DCB0648-3B7A-4FAF-8019-F9785E587078}",
+      "expire_time" : 0,
+      "group_id" : 0,
+      "id" : 227323933,
+      "plan_id" : 18665594,
+      "plan_info" : {
+         "auth_item_id" : 11,
+         "expire_time" : 0,
+         "group_id" : 0,
+         "m_pid" : 846,
+         "plan_id" : 18665594,
+         "product_id" : 846,
+         "sale_type" : 1,
+         "status" : 1
+      },
+      "remainder_time" : 0
+   },
+   "msg" : "success"
+}
